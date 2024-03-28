@@ -1,0 +1,14 @@
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\bin\Debug\net8.0\Jeu_magique.exe
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\bin\Debug\net8.0\Jeu_magique.deps.json
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\bin\Debug\net8.0\Jeu_magique.runtimeconfig.json
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\bin\Debug\net8.0\Jeu_magique.dll
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\bin\Debug\net8.0\Jeu_magique.pdb
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\obj\Debug\net8.0\Jeu_magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\obj\Debug\net8.0\Jeu_magique.AssemblyInfoInputs.cache
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\obj\Debug\net8.0\Jeu_magique.AssemblyInfo.cs
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\obj\Debug\net8.0\Jeu_magique.csproj.CoreCompileInputs.cache
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\obj\Debug\net8.0\Jeu_magique.dll
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\obj\Debug\net8.0\refint\Jeu_magique.dll
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\obj\Debug\net8.0\Jeu_magique.pdb
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\obj\Debug\net8.0\Jeu_magique.genruntimeconfig.cache
+C:\Users\cisco\Desktop\Assya\Jeu_magique\Jeu_magique\obj\Debug\net8.0\ref\Jeu_magique.dll
